@@ -18,7 +18,7 @@ function generatePassword() {
     return "";
   }
 
-
+// Get parameters from user
   var upperCase = confirm("Do you want to include upper case?");
   var lowerCase = confirm("Do you want to include lower case?");
   var numeric = confirm("Do you want to include numbers?");
