@@ -18,5 +18,5 @@
 
 ## Screenshots of the Password generator
 
-![screenshot-of-working-password-generator](./img/pwscreenshot.png)
+![screenshot-of-working-password-generator](./img/pwgenscreenshot.png)
 
