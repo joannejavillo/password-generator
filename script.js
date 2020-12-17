@@ -43,7 +43,7 @@ function generatePassword() {
  if (symbols){
    availChars +="!@#$%^&*()-+=?<>";
  }
-  console.log(availChars);
+  //console.log(availChars);
 
  var password ="";
  for (var i=0; i<length; i++){

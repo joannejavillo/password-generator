@@ -6,7 +6,7 @@
 
 ---
 ## Goal of this activity 
-* To be able to generate a random password that will pass all the criteria. 
+**To be able to generate a random password that will pass all the criteria.** 
  -  When you click the button it should give you a random password with a length of 8-128 characters.
  - That it should have an uppercase, lowercase, numeric and/or special characters depending on the user's preference.
  - That the input should be validated and at least one character type should be selected.
@@ -14,7 +14,7 @@
 
 ---
  ## Javascript
- - Learned the use of variables, functions, console logs, array, conditional statements, Math.random., for loop.
+ - Learned the use of variables, functions, console logs, array, conditional statements, Math.random, for loop.
 
 
 
