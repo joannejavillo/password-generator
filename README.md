@@ -18,8 +18,17 @@
 
 ## Screenshots of the Password generator
 
-![screenshot-of-working-password-generator](./img/pwgenscreenshot.png)
+![screenshot-of-working-password-generator](./img/pwgenscreenshot.png)  
+- 128 password characters 
+---
 ![screenshot-of-working-password-generator-2 ](./img/screenshotpwgen2.png)
+- another image of 128 characters
+---
 ![screenshot-of-invalid-length-password](./img/invalidlengthpw.png)
+- image of prompt that the user keyed in an invalid length of characters
+---
 ![screenshot-of-character-not-meet](./img/characternotmeet.png)
+- image of prompt when the user did not meet the character requirement to generate the password
+---
 ![screenshot-of-one-of-the-criteria-in-generating-a-password](./img/screenshotcriteria.png)
+- image of one of the criteria to be able to generate a password
