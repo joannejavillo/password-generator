@@ -19,4 +19,7 @@
 ## Screenshots of the Password generator
 
 ![screenshot-of-working-password-generator](./img/pwgenscreenshot.png)
-
+![screenshot-of-working-password-generator-2 ](./img/screenshotpwgen2.png)
+![screenshot-of-invalid-length-password](./img/invalidlengthpw.png)
+![screenshot-of-character-not-meet](./img/characternotmeet.png)
+![screenshot-of-one-of-the-criteria-in-generating-a-password](./img/screenshotcriteria.png)
