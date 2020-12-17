@@ -16,11 +16,13 @@
  ## Javascript
  - Learned the use of variables, functions, console logs, array, conditional statements, Math.random, for loop.
 
+ [Link](https://joannejavillo.github.io/password-generator/)
+
 ## Screenshots of the Password generator
 
 ![screenshot-of-working-password-generator](./img/pwgenscreenshot.png)  
 - 128 password characters 
----
+
 ![screenshot-of-working-password-generator-2 ](./img/screenshotpwgen2.png)
 - another image of 128 characters
 ---
@@ -32,3 +34,4 @@
 ---
 ![screenshot-of-one-of-the-criteria-in-generating-a-password](./img/screenshotcriteria.png)
 - image of one of the criteria to be able to generate a password
+
