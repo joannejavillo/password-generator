@@ -15,8 +15,10 @@
 ---
  ## Javascript
  - Learned the use of variables, functions, console logs, array, conditional statements, Math.random, for loop.
-
+---
+## Link of my Password generator in Github
  [Link](https://joannejavillo.github.io/password-generator/)
+ 
 
 ## Screenshots of the Password generator
 
