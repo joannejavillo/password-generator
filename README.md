@@ -16,5 +16,7 @@
  ## Javascript
  - Learned the use of variables, functions, console logs, array, conditional statements, Math.random, for loop.
 
+## Screenshots of the Password generator
 
+![screenshot-of-working-password-generator](./img/pwscreenshot.png)
 
